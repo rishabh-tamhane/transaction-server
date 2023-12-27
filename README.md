@@ -16,23 +16,6 @@ transactional object store.
 * Have some insight into the design of concurrent data structures
 * Have enhanced your C programming abilities
 
-## Helpful Resources
-
-### Textbook Readings
-
-You should make sure that you understand the material covered in
-chapters **11.4** and **12** of **Computer Systems: A Programmer's
-Perspective (3rd Edition)**.  These chapters cover networking and 
-concurrency in great detail and will bean invaluable resource for 
-this assignment.
-
-### pthread Man Pages
-
-The pthread man pages can be easily accessed through your terminal.
-However, [this opengroup.org site](http://pubs.opengroup.org/onlinepubs/7908799/xsh/pthread.h.html)
-provides a list of all the available functions.  The same list is also
-available for [semaphores](http://pubs.opengroup.org/onlinepubs/7908799/xsh/semaphore.h.html).
-
 
 ## The Xacto Server and Protocol: Overview
 
